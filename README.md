@@ -4,7 +4,7 @@
 
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 [![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-dev-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
-[![GitHub Lucas](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Lucas-De-Lima)
+[![GitHub Lucas](https://img.shields.io/github/followers/Lucas-De-Lima?label=follow&style=social)](https://github.com/Lucas-De-Lima)
 
 
 <!---
