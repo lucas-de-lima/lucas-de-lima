@@ -4,7 +4,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=synthwave" alt="Lucas-De-Lima :: Profile Stats" /></p>
 
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 <a href="https://www.instagram.com/dev.lucasdelima/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dev.lucasdelima-black?style=flat-square&logo=instagram"></a>
