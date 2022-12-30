@@ -102,7 +102,7 @@
 
 <br>
 
-<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="230">
+<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="260">
 
 <h4 align="center">Contact me :musical_keyboard:</h4>
 
