@@ -1,6 +1,4 @@
 ![head.png](https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/header.png)
-<br/>
-
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/gifs/octocat.gif" width="230">
 <br/>
 
