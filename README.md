@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
-## Tools and Technologies <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/cross2.png">
+## Tools and Technologies <img height=80px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/HokuApps-System-Integration-Solutions-1.png">
 
 <br>
 <table>
