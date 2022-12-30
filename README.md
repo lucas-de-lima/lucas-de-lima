@@ -15,7 +15,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
-## Tools and Technologies :computer:
+## Tools and Technologies <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/cross2.png">
 
 <br>
 <table>
@@ -95,7 +95,7 @@
 
 <br/>
 
-<h4 align="center">Profile stats <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/cross2.png"></h4>
+<h4 align="center">Profile stats</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lima&langs_count=10&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="AnhellO :: Top Langs" /></p>
 </br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Profile Stats" /></p>
