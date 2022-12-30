@@ -25,8 +25,8 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Swift</center></b></span> 
-<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+<span><b><center>React</center></b></span> 
+<img height=60px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/react.png"> 
 </td>
 
 <td align="center" width="20%">
