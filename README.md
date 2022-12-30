@@ -9,6 +9,7 @@
 
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 <a href="https://www.instagram.com/dev.lucasdelima/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dev.lucasdelima-black?style=flat-square&logo=instagram"></a>
+[![Instagram Badge](https://img.shields.io/badge/-dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
 [![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
 [![GitHub Lucas](https://img.shields.io/github/followers/Lucas-De-Lima?label=follow&style=social)](https://github.com/Lucas-De-Lima)
 
