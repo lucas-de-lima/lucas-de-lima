@@ -100,7 +100,9 @@
 
 <br>
 
-## Contact me 💬
+<h4> </h4>
+
+## Contact me 💬 <img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="260">
 
 <img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="260">
 
