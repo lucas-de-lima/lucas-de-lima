@@ -3,6 +3,13 @@
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/img/gifs/octocat.gif" width="230">
 <br/>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/222j2yx5wplhkpf4pfnjzzqmq)
+
+---
+<br/>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br/>
 
