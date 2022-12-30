@@ -111,9 +111,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)](https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)
 
+
+
 <!---
 [![Website Badge](https://img.shields.io/badge/-My_Portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://lucas-de-lima.github.io/my-portfolio/)](https://lucas-de-lima.github.io/my-portfolio/)
 --->
+
+
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
