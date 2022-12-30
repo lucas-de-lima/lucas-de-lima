@@ -1,11 +1,6 @@
 ![head.png](https://uploaddeimagens.com.br/imagens/j298Yog)
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/img/gifs/octocat.gif" width="230">
 
-<p align="center">
-<img alt="Commutatus gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/commutatus.gif" width="90%" />
-</p>
-<br/>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lima&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> 
 </br>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
