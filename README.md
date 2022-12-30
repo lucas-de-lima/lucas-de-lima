@@ -54,13 +54,6 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span> 
-<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
 <span><b><center>JavaScrip</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/javascript.png"> 
 </td>
