@@ -2,11 +2,15 @@
 <br/>
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/img/gifs/octocat.gif" width="230">
 <br/>
-
-<br/>
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <br/>
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
+- 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
+- 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email me if you have any questions.
 
 ## Tech Stack :computer:
 
