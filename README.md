@@ -1,7 +1,7 @@
 ![head.png](https://uploaddeimagens.com.br/imagens/j298Yog)
 <br/>
 
-<img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/img/gifs/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/gifs/octocat.gif" width="230">
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -102,8 +102,7 @@
 
 <br>
 
-<!---<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="200">
---->
+<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="230">
 
 <h4 align="center">Contact me :musical_keyboard:</h4>
 
