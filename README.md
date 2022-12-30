@@ -103,12 +103,14 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Profile Stats" /></p>
 
+<div align="center" >
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 [![Instagram Badge](https://img.shields.io/badge/-@dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
 [![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
 [![GitHub Lucas](https://img.shields.io/github/followers/Lucas-De-Lima?label=follow&style=social)](https://github.com/Lucas-De-Lima)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)](https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)
+<div/>
 
 
 <!---
