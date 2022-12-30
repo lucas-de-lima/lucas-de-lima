@@ -21,41 +21,36 @@
  <tr>
 <td align="center" width="20%">
 <span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>React</center></b></span> 
 <img height=60px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/react.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<span><b><center>Redux</center></b></span> 
+<img height=60px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/redux.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>MATLAB</center></b></span> 
-<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+<span><b><center>React Testing Library</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/testing-library-logo.png"> 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Git</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+<img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/git.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/html.png"> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/css.png"> 
 </td>
 
 <td align="center" width="20%">
@@ -66,25 +61,8 @@
 
 
 <td align="center" width="20%">
-<span><b><center>Flutter</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+<span><b><center>JavaScrip</center></b></span> 
+<img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/javascript.png"> 
 </td>
 </tr>
 
