@@ -10,7 +10,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff" alt="Lucas-De-Lima :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Profile Stats" /></p>
 
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 [![Instagram Badge](https://img.shields.io/badge/-@dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
