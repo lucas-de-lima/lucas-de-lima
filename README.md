@@ -101,9 +101,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Profile Stats" /></p>
 
 <br>
-<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="200">
+
+<!---<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="200">
+--->
 
 <h4 align="center">Contact me :musical_keyboard:</h4>
+
 [![Twitter: LucasDeLima](https://img.shields.io/twitter/follow/LucasDeLima___?style=social)](https://twitter.com/LucasDeLima___)
 [![Instagram Badge](https://img.shields.io/badge/-@dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
 [![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
