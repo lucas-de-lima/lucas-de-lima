@@ -4,7 +4,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lima&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p> 
 </br>
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-</br>
+<br/>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
