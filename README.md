@@ -7,7 +7,6 @@
 [![GitHub Lucas](https://img.shields.io/github/followers/Lucas-De-Lima?label=follow&style=social)](https://github.com/Lucas-De-Lima)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)](https://api.whatsapp.com/send?phone=5515991049447&text=Olá!)
-<br/>
 
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/img/gifs/octocat.gif" width="230">
 <br/>
