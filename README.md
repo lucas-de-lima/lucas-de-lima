@@ -12,7 +12,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
-## Tech Stack :computer:
+## Tools and Technologies :computer:
 
 <br>
 <table>
