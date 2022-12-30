@@ -123,7 +123,7 @@
 
 <br/>
 
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+![bottom.png](https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/footer.png)
 
 
 <!---
