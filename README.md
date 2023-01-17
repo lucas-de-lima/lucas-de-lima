@@ -1,5 +1,6 @@
-![head.png](https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/header.png)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 <img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/gifs/octocat.gif" width="230">
+
 <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -32,7 +33,7 @@
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>React Testing Library</center></b></span> 
+<span><b><center>RTL</center></b></span> 
 <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/testing-library-logo.png"> 
 </td>
 
@@ -65,11 +66,10 @@
 <br/>
 
 ## Profile stats 📊
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-De-Lima&langs_count=10&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
 
-</br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Lucas-De-Lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
 
 <br>
 
@@ -100,8 +100,7 @@
 
 <br/>
 
-![bottom.png](https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/footer.png)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <!---
 Lucas-De-Lima/Lucas-De-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
