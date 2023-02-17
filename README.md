@@ -8,10 +8,10 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I'm currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school;
-- 🤔 My interest at the moment is web development, and I also want to learn iOS or Android;
-- 💼 In the future I want to study a bachelor's degree in Software Engineering;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I'm currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
+- 🤔 My interest at the moment is web development, and I also want to learn iOS or Android.
+- 💼 My next step is to graduate from some technology course and move on to software engineering.
+- 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
 
 ## Tools and Technologies :computer:
