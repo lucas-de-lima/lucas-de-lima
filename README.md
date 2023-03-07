@@ -9,7 +9,7 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
-- 🤔 My interest at the moment is web development, and I also want to learn iOS or Android.
+- 🤔 My interest at the moment is web development, and then I want to study React Native, and maybe Android or iOS too.
 - 💼 My next step is to graduate from some technology course and move on to software engineering.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
