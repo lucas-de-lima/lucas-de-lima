@@ -17,6 +17,7 @@
 ## Tools and Technologies :computer:
 
 <br>
+<!-- INICIO DA TABELA -->
 <table>
 <tbody>
  <tr>
@@ -61,6 +62,17 @@
 </tr>
 
 </tbody>
+</table>
+<!-- FINAL DA TABELA -->
+
+<table>
+    <tbody>
+        <td align="center" width="20%">
+        <span><b><center>Node.JS</center></b></span> 
+        <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png"> 
+        </td>
+        </tr>
+    </tbody>
 </table>
 
 <br/>
