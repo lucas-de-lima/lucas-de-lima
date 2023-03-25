@@ -18,7 +18,7 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<span style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <!-- PRIMEIRA TABELA -->
   <div class="table-container">
@@ -102,7 +102,7 @@
       <tr>
         <td>
           <span><b><center>Jest</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png">
         </td>
         <td>
           <span><b><center>Testing Library</center></b></span>
@@ -112,7 +112,7 @@
    </table>
  </div>
 
- </div>
+ </span>
 
 
 <br/>

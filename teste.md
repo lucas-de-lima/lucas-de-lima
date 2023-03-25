@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+<span style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 
 <!-- PRIMEIRA TABELA -->
   <div class="table-container">
@@ -92,5 +92,5 @@
    </table>
  </div>
 
- </div>
+ </span>
 
