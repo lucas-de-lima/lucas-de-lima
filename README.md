@@ -51,7 +51,7 @@
         </td>
 		<td>
           <span><b><center></center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react-router.png">
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/reactRouter.png">
         </td>
         <td>
           <span><b><center></center></b></span>
@@ -122,7 +122,7 @@
     </table>
   </div>
  </div>     
- 
+
 <br/>
 
 ## Profile stats 📊
