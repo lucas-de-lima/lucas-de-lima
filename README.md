@@ -21,8 +21,8 @@
   <div class="table-container">
     <!-- <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1> -->
     <table>
-      <tr>
       <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+      <tr>
         <td>
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
