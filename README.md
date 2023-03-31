@@ -62,22 +62,28 @@
     <table>
       <tr>
         <td>
-          <span><b><center>Node.JS</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png">
         </td>
         <td>
-          <span><b><center>Express</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/express.png">
         </td>
       </tr>
       <tr>
         <td>
-          <span><b><center>Sequelize</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/sequelize.png">
         </td>
         <td>
-          <span><b><center>MySQL</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mysql.png">
+        </td>
+     </tr>
+     <tr>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typeScript.png">
         </td>
      </tr>
    </table>
