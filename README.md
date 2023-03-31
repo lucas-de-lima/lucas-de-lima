@@ -19,9 +19,8 @@
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div class="table-container">
-    <!-- <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1> -->
-    <table>
-      <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+    <table style="width:100%;float:left">
       <tr>
         <td>
           <span><b><center></center></b></span>
@@ -58,7 +57,7 @@
   </div>
   <div class="table-container">
     <h1 style="font-size: 36px; font-weight: bold;">Back-end</h1>
-    <table>
+    <table style="width:100%;float:left">
       <tr>
         <td>
           <span><b><center></center></b></span>
