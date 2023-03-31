@@ -83,7 +83,11 @@
      <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typeScript.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/joi.png">
         </td>
      </tr>
    </table>
