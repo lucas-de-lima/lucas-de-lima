@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
-<img align='right' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/gifs/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/octocat.gif" width="230">
 
 <br/>
 
@@ -143,7 +143,7 @@
 
 ## Contact me 💬
 
-<img align='left' src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/get-on-touch-07.png" width="260">
+<img align='left' src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/get-on-touch-07.png" width="260">
 
 <h4> </h4>
 
