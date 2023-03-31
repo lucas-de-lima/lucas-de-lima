@@ -132,8 +132,8 @@
 ## Profile stats 📊
 
 <div style="display: flex; justify-content: center;">
-  <p style="margin-right: 20px;"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
-  <p><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
+  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" />
+  <img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
 </div>
 
 
