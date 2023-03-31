@@ -23,35 +23,35 @@
     <table>
       <tr>
         <td>
-          <span><b><center>ReactJS</center></b></span>
+          <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
         </td>
         <td>
-          <span><b><center>Redux</center></b></span>
+          <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
         </td>
       </tr>
       <tr>
         <td>
-          <span><b><center>RTL</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
         </td>
         <td>
-          <span><b><center>Git</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
         </td>
         <td>
-          <span><b><center>HTML</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
         </td>
       </tr>
       <tr>
         <td>
-          <span><b><center>CSS</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
         </td>
         <td>
-          <span><b><center>JavaScript</center></b></span>
+          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
         </td>
       </tr>
