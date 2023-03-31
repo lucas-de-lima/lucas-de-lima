@@ -17,12 +17,9 @@
 ## Tools and Technologies :computer:
 
 <br>
-
-<span style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-<!-- PRIMEIRA TABELA -->
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div class="table-container">
-    <h1 style="font-size: 26px; font-weight: bold;">Front-end</h1>
+    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
     <table>
       <tr>
         <td>
@@ -37,7 +34,7 @@
       <tr>
         <td>
           <span><b><center>RTL</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library-logo.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
         </td>
         <td>
           <span><b><center>Git</center></b></span>
@@ -60,10 +57,8 @@
       </tr>
     </table>
   </div>
-
-  <!-- SEGUNDA TABELA -->
   <div class="table-container">
-    <h1 style="font-size: 26px; font-weight: bold;">Back-end</h1>
+    <h1 style="font-size: 36px; font-weight: bold;">Back-end</h1>
     <table>
       <tr>
         <td>
@@ -84,44 +79,18 @@
           <span><b><center>MySQL</center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mysql.png">
         </td>
-      </tr>
-      <tr>
-        <td>
-          <span><b><center>Joi</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/joi.png">
-        </td>
-      </tr>
      </tr>
    </table>
  </div>
-
- <!-- TERCEIRA TABELA -->
- <div class="table-container">
-    <h1 style="font-size: 26px; font-weight: bold;">Tests</h1>
-    <table>
-      <tr>
-        <td>
-          <span><b><center>Jest</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png">
-        </td>
-        <td>
-          <span><b><center>Testing Library</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library-logo.png">
-        </td>
-      </tr>
-   </table>
- </div>
-
- </span>
-
-
 <br/>
 
 ## Profile stats 📊
 
-<p align="center"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
+<div style="display: flex; justify-content: center;">
+  <p style="margin-right: 20px;"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
+  <p><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
 
 <br>
 

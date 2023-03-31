@@ -24,35 +24,35 @@
       <tr>
         <td>
           <span><b><center>ReactJS</center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/react.png">
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
         </td>
         <td>
           <span><b><center>Redux</center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/redux.png">
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
         </td>
       </tr>
       <tr>
         <td>
           <span><b><center>RTL</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/testing-library-logo.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
         </td>
         <td>
           <span><b><center>Git</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/git.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
         </td>
         <td>
           <span><b><center>HTML</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/html.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
         </td>
       </tr>
       <tr>
         <td>
           <span><b><center>CSS</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/css.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
         </td>
         <td>
           <span><b><center>JavaScript</center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/Lucas-De-Lima/imagesFromMyReadme/main/assets/png/javascript.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
         </td>
       </tr>
     </table>
@@ -86,9 +86,11 @@
 
 ## Profile stats 📊
 
-<p align="center"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
+<div style="display: flex; justify-content: center;">
+  <p style="margin-right: 20px;"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" /></p>
+  <p><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
+</div>
 
-<p align="center"><img src="https://github-readme-stats-lucas-de-lima.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" /></p>
 
 <br>
 
