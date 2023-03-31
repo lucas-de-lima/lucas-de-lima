@@ -55,6 +55,10 @@
         </td>
         <td>
           <span><b><center></center></b></span>
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/contextApi.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
         </td>
         <td>
