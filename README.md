@@ -30,8 +30,6 @@
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
         </td>
-      </tr>
-      <tr>
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
@@ -40,19 +38,19 @@
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
         </td>
+      </tr>
+      <tr>
+      <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
+        </td>
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
         </td>
-      </tr>
-      <tr>
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
         </td>
       </tr>
     </table>
