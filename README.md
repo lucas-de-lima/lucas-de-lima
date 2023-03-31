@@ -17,93 +17,79 @@
 ## Tools and Technologies :computer:
 
 <br>
-
-  <div style="display:flex;">
-  <div style="flex-basis:33%;">
-    <table>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+    <table style="width:100%;float:left">
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
+          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
         </td>
-      <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
         </td>
-	  </tr>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
+        </td>
       </tr>
       <tr>
       <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
         </td>
-	  <tr>
-	  	<td>
+        <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
         </td>
-	  </tr>
       </tr>
     </table>
   </div>
-  <div style="flex-basis:33%;">
-    <table>
+  <div class="table-container">
+    <h1 style="font-size: 36px; font-weight: bold;">Back-end</h1>
+    <table style="width:100%;float:left">
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/express.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/express.png">
         </td>
-	  <tr>
-	  	<td>
+        <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/sequelize.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/sequelize.png">
         </td>
-		<td>
-          <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
-        </td>
-	  </tr>
       </tr>
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mysql.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mysql.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/joi.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
+        </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/joi.png">
         </td>
      </tr>
-    </table>
-  </div>
-  <div style="flex-basis:33%;">
-    <table>
-      <tr>
-      <td>
-          <span><b><center></center></b></span>
-          <img height=65px width=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/testing-library.png">
-        </td>
-        <!-- <td>
-          <span><b><center></center></b></span>
-          <img height=65px width=65px src="">
-        </td> -->
-      </tr>
-    </table>
-  </div>
-</div>
+   </table>
+ </div> 
+ </div>     
+
 
 <br/>
 
