@@ -19,9 +19,10 @@
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   <div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+    <!-- <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1> -->
     <table>
       <tr>
+      <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
         <td>
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
