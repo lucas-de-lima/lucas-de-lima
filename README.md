@@ -19,7 +19,7 @@
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
 	<div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Core</h1>
+	<h2>Core</h2>
     <table style="width:100%;float:left">
       <tr>
 	    <td>
@@ -42,7 +42,7 @@
     </table>
   </div>
   <div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Front-end</h1>
+	  <h2>Front-end</h2>
     <table style="width:100%;float:left">
       <tr>
         <td>
@@ -73,7 +73,7 @@
     </table>
   </div>
   <div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Back-end</h1>
+    <h2>Back-end</h2>
     <table style="width:100%;float:left">
       <tr>
         <td>
@@ -103,7 +103,7 @@
      </tr>
    </table>
    <div class="table-container">
-    <h1 style="font-size: 36px; font-weight: bold;">Testing</h1>
+	   <h2>Testing</h2>
     <table style="width:100%;float:left">
       <tr>
         <td>
