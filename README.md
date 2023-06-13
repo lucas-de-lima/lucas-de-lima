@@ -9,7 +9,7 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
-- 🤔 My interest is full-stack web development, and at the moment I'm focusing more on back-end technologies.
+- 🤔 I love full-stack web development and right now I'm focusing more on back-end technologies.
 - 💼 I want to complete my degree in systems analysis and development.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
