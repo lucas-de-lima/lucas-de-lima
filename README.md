@@ -8,8 +8,8 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I'm currently studying Full-Stack web development at [@Trybe](https://www.betrybe.com/) school.
-- 🤔 I love full-stack web development and right now I'm focusing more on back-end technologies.
+- 👨🏽‍💻 I'm currently studying systems analysis and development.
+- 🤔 I love full-stack web development and right now I'm focusing more on SAP BTP, SAP CAP, SAP Fiori(UI5) and GCP(Google Cloud)
 - 💼 I want to complete my degree in systems analysis and development.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
