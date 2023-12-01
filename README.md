@@ -22,7 +22,7 @@
 	<h2>Core</h2>
     <table style="width:100%;float:left">
       <tr>
-	    <td>
+	      <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
         </td>
@@ -30,11 +30,15 @@
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
         </td>
-		<td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/java.png">
+        </td>
+		    <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
         </td>
-		<td>
+		    <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/docker.png">
         </td>
