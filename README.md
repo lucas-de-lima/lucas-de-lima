@@ -9,8 +9,8 @@
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently studying systems analysis and development.
-- 🤔 I love full-stack web development and recently learned more about GCP(Google Cloud Platform) and am also learning more about Kotlin
-- 💼 I want to complete my degree in systems analysis and development.
+- 🤔 I'm a full-stack web developer, and I learned how to deploy applications on GCP and Azure. Sometimes I take a look at Android development with Kotlin and Jetpack Compose.
+- 💼 I want to complete my degree in systems analysis and development, and specialize in software engineering.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
 
