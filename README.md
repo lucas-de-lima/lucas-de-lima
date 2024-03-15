@@ -3,7 +3,7 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Earth.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Earth.gif" width="24px">
+### <img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Hi.gif" width="24px">
 <br/>
 
 ### Talking about Personal Stuffs:
