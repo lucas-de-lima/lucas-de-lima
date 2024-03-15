@@ -57,7 +57,7 @@
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
         </td>
-		<td>
+		    <td>
           <span><b><center></center></b></span>
           <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/reactRouter.png">
         </td>
