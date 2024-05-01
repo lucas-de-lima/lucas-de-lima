@@ -138,6 +138,10 @@
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mocha.png">
         </td>
+        <td>
+          <span><b><center></center></b></span>
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/junit5.png">
+        </td>
       </tr>
     </table>
   </div>
