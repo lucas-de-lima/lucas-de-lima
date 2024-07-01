@@ -4,12 +4,13 @@
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Earth.gif" width="24px">
+
 <br/>
 
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I'm currently studying systems analysis and development.
-- 🤔 I'm a full-stack web developer, and I learned how to deploy applications on GCP and Azure. Sometimes I take a look at Android development with Kotlin and Jetpack Compose.
+- 🤔 I'm a backend developer. Sometimes I take a look at Android development with Kotlin and Jetpack Compose.
 - 💼 I want to complete my degree in systems analysis and development, and specialize in software engineering.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please get in touch if you have any questions.
@@ -22,21 +23,13 @@
 	<h2>Core</h2>
     <table style="width:100%;float:left">
       <tr>
-	      <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/javascript.png">
-        </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/typescript.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Kotlin.png">
         </td>
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/java.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Kotlin.png">
         </td>
 		    <td>
           <span><b><center></center></b></span>
@@ -49,36 +42,6 @@
       </tr>
     </table>
   </div>
-  <div class="table-container">
-	  <h2>Front-end</h2>
-    <table style="width:100%;float:left">
-      <tr>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nextjs.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/react.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/context-Api.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=60px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/redux.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/html.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/css.png">
-        </td>
-      </tr>
-    </table>
   </div>
   <div class="table-container">
     <h2>Back-end</h2>
@@ -91,18 +54,6 @@
         <td>
           <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Gradle.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/nodejs.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/express.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/sequelize.png">
         </td>
         <td>
           <span><b><center></center></b></span>
@@ -124,28 +75,12 @@
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/TestingLibrary.png">
-        </td>
-		    <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jest.png">
-        </td>
-		    <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/chai.png">
-        </td>
-		    <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mocha.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
           <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/junit5.png">
         </td>
       </tr>
     </table>
   </div>
- </div>     
+ </div>
 
 <br/>
 
@@ -157,7 +92,6 @@
   <img src="https://github-readme-stats-lucasdelimas-projects.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
 </div>
 --->
-
 
 <br>
 
@@ -176,7 +110,6 @@
 <br/>
 
 <h4> </h4>
-
 
 <br/>
 <h4> </h4>
