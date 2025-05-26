@@ -88,14 +88,12 @@
 
 <br/>
 
-<!---
 ## Profile stats 📊
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats-lucasdelimas-projects.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" />
   <img src="https://github-readme-stats-lucasdelimas-projects.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
 </div>
---->
 
 <br>
 
