@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
-<img align='right' src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/octocat.gif" width="230">
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/gifs/Earth.gif" width="24px">
+### <img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Earth.gif" width="24px">
 
 <br/>
 
@@ -25,19 +25,19 @@
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Kotlin.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Kotlin.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/java.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/java.png">
         </td>
 		    <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/git.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/git.png">
         </td>
 		    <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/docker.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/docker.png">
         </td>
       </tr>
     </table>
@@ -49,27 +49,27 @@
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/spring-boot.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/spring-boot.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Gradle.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Gradle.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/Maven.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Maven.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/jwt.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/jwt.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mysql.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/mysql.png">
         </td>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/mongod.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/mongod.png">
         </td>
      </tr>
    </table>
@@ -79,7 +79,7 @@
       <tr>
         <td>
           <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/junit5.png">
+          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/junit5.png">
         </td>
       </tr>
     </table>
@@ -91,8 +91,8 @@
 ## Profile stats 📊
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="Lucas-De-Lima :: Top Langs" />
-  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="Lucas-De-Lima :: Top Langs" />
+  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="lucas-de-lima :: Top Langs" />
+  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="lucas-de-lima :: Top Langs" />
 </div>
 
 <br>
@@ -101,13 +101,13 @@
 
 ## Contact me 💬
 
-<img align='left' src="https://raw.githubusercontent.com/lucas-de-lima/Lucas-De-Lima/main/assets/png/get-on-touch-07.png" width="260">
+<img align='left' src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/get-on-touch-07.png" width="260">
 
 <h4> </h4>
 
 [![Instagram Badge](https://img.shields.io/badge/-@dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
 [![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
-[![GitHub Lucas](https://img.shields.io/github/followers/Lucas-De-Lima?label=follow&style=social)](https://github.com/Lucas-De-Lima)
+[![GitHub Lucas](https://img.shields.io/github/followers/lucas-de-lima?label=follow&style=social)](https://github.com/lucas-de-lima)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
 <br/>
 
@@ -123,6 +123,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <!---
-Lucas-De-Lima/Lucas-De-Lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+lucas-de-lima/lucas-de-lima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
