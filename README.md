@@ -77,7 +77,7 @@ I believe in **clean, practical code** and **continuous learning** through real 
           <span>Gin</span>
         </td>
         <td align="center">
-          <img height="48" src="assets/svg/Kotlin.svg" alt="Kotlin logo"/><br/>
+          <img height="48" src="assets/svg/kotlin.svg" alt="Kotlin logo"/><br/>
           <span>Kotlin</span>
         </td>
         <td align="center">
