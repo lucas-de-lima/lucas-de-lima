@@ -24,7 +24,6 @@ I believe in **clean, practical code** and **continuous learning** through real 
 
 <br/>
 
-<!-- NOVAS SEÇÕES REAIS -->
 
 <div style="display: flex; flex-wrap: wrap; gap: 32px;">
   <div style="flex: 1; min-width: 250px;">
@@ -149,7 +148,6 @@ I believe in **clean, practical code** and **continuous learning** through real 
   </div>
 </div>
 
-<!-- FIM DAS NOVAS SEÇÕES REAIS -->
 
 ## Profile stats 📊
 
@@ -169,8 +167,6 @@ I believe in **clean, practical code** and **continuous learning** through real 
 <h4> </h4>
 
 ## Contact me 💬
-
-<img align='left' src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/get-on-touch-07.png" width="260">
 
 <h4> </h4>
 
