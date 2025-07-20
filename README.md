@@ -148,6 +148,7 @@ I believe in **clean, practical code** and **continuous learning** through real 
   </div>
 </div>
 
+<br/>
 
 ## Profile stats 📊
 
@@ -162,23 +163,14 @@ I believe in **clean, practical code** and **continuous learning** through real 
   </tr>
 </table>
 
-<br>
+<br/>
 
-<h4> </h4>
 
 ## Contact me 💬
-
-<h4> </h4>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-lucasdelima/)
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas-de-lima?label=follow&style=social)](https://github.com/lucas-de-lima)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
-<br/>
-
-<h4> </h4>
-
-<br/>
-<h4> </h4>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you'd like to connect or collaborate, don't hesitate to get in touch.</b></em>
 
