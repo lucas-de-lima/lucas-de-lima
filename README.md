@@ -3,19 +3,19 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Earth.gif" width="24px">
+### <img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Hi.gif" width="29px"> Hi, I'm Lucas De Lima — Backend Developer | Golang and Android with Kotlin&nbsp;
 
 <br/>
 
-### Talking about Personal Stuffs:
+### A Bit About Me:
 
-- 👨🏽‍💻 I'm currently studying systems analysis and development.
-- 🤔 I'm a backend developer. Sometimes I take a look at Android development with Kotlin and Jetpack Compose.
-- 💼 I want to complete my degree in systems analysis and development, and specialize in software engineering.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 Please get in touch if you have any questions.
+- 👨🏽‍💻 I'm currently pursuing a degree in Systems Analysis and Development.
+- 🤔 I'm a backend developer with an interest in Golang development and Android using Kotlin and Jetpack Compose.
+- 💼 My goal is to complete my degree and specialize in Software Engineering.
+- 💬 Feel free to ask me anything – I'm always happy to help.
+- 📫 I'm open to connections and collaborations – feel free to reach out!
 
-## Tools and Technologies :computer:
+## ⚙️ Tech Stack I Work With
 
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
@@ -116,7 +116,7 @@
 <br/>
 <h4> </h4>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>If you'd like to connect or collaborate, don't hesitate to get in touch.</b></em>
 
 <br/>
 
