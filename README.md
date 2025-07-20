@@ -3,97 +3,166 @@
 
 <br/>
 
-### <img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Hi.gif" width="29px"> Hi, I'm Lucas De Lima — Backend Developer | Golang and Android with Kotlin&nbsp;
+### <img src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/gifs/Hi.gif" width="29px"> Hi, I'm Lucas De Lima — Backend Developer working with Golang & Kotlin (Android)
 
 <br/>
 
-### A Bit About Me:
+## Backend Developer in transition to Go and Kotlin
 
-- 👨🏽‍💻 I'm currently pursuing a degree in Systems Analysis and Development.
-- 🤔 I'm a backend developer with an interest in Golang development and Android using Kotlin and Jetpack Compose.
-- 💼 My goal is to complete my degree and specialize in Software Engineering.
-- 💬 Feel free to ask me anything – I'm always happy to help.
-- 📫 I'm open to connections and collaborations – feel free to reach out!
+Currently working mainly with **TypeScript** and exploring **Go** as a long-term backend stack.<br/>
+I believe in **clean, practical code** and **continuous learning** through real projects.
 
-## ⚙️ Tech Stack I Work With
+<br/>
 
-<br>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-	<div class="table-container">
-	<h2>Core</h2>
-    <table style="width:100%;float:left">
+## About Me
+
+> - 👨🏽‍💻 <b>Currently pursuing a degree in Systems Analysis and Development</b><br/>
+> - 🤔 <b>Backend developer</b> interested in Go, Kotlin (Android), and Jetpack Compose<br/>
+> - 💼 <b>Goal:</b> Complete my degree and specialize in Software Engineering<br/>
+> - 💬 <b>Always happy to help</b> and open to questions<br/>
+> - 📫 <b>Open to connections and collaborations</b>
+
+<br/>
+
+<!-- NOVAS SEÇÕES REAIS -->
+
+<div style="display: flex; flex-wrap: wrap; gap: 32px;">
+  <div style="flex: 1; min-width: 250px;">
+    <h2>🧠 Main Expertise</h2>
+    <table style="width:100%;">
       <tr>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Kotlin.png">
+        <td align="center">
+          <img height="48" src="assets/svg/typescript.svg" alt="TypeScript logo"/><br/>
+          <span>TypeScript</span>
         </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/java.png">
+        <td align="center">
+          <img height="48" src="assets/svg/nodejs.svg" alt="Node.js logo"/><br/>
+          <span>Node.js</span>
         </td>
-		    <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/git.png">
+        <td align="center">
+          <img height="48" src="assets/svg/java.svg" alt="Java logo"/><br/>
+          <span>Java</span>
         </td>
-		    <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/docker.png">
+        <td align="center">
+          <img height="48" src="assets/svg/spring-boot.svg" alt="Spring Boot logo"/><br/>
+          <span>Spring Boot</span>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img height="48" src="assets/svg/docker.svg" alt="Docker logo"/><br/>
+          <span>Docker</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/mysql.svg" alt="MySQL logo"/><br/>
+          <span>MySQL</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/mongodb.svg" alt="MongoDB logo"/><br/>
+          <span>MongoDB</span>
         </td>
       </tr>
     </table>
   </div>
-  </div>
-  <div class="table-container">
-    <h2>Back-end</h2>
-    <table style="width:100%;float:left">
+  <div style="flex: 1; min-width: 250px;">
+    <h2>📚 Currently Exploring</h2>
+    <table style="width:100%;">
       <tr>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/spring-boot.png">
+        <td align="center">
+          <img height="48" src="assets/svg/go.svg" alt="Golang logo"/><br/>
+          <span>Golang</span>
         </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Gradle.png">
+        <td align="center">
+          <img height="48" src="assets/svg/gin.png" alt="Gin Web Framework logo"/><br/>
+          <span>Gin</span>
         </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/Maven.png">
+        <td align="center">
+          <img height="48" src="assets/svg/Kotlin.svg" alt="Kotlin logo"/><br/>
+          <span>Kotlin</span>
         </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/jwt.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/mysql.png">
-        </td>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/mongod.png">
-        </td>
-     </tr>
-   </table>
-   <div class="table-container">
-	   <h2>Testing</h2>
-    <table style="width:100%;float:left">
-      <tr>
-        <td>
-          <span><b><center></center></b></span>
-          <img height=65px src="https://raw.githubusercontent.com/lucas-de-lima/lucas-de-lima/main/assets/png/junit5.png">
+        <td align="center">
+          <img height="48" src="assets/svg/android.svg" alt="Android logo"/><br/>
+          <span>Android</span>
         </td>
       </tr>
     </table>
   </div>
- </div>
+  <div style="flex: 1; min-width: 250px;">
+    <h2>🛠️ Dev Tools & Infra</h2>
+    <table style="width:100%;">
+      <tr>
+        <td align="center">
+          <img height="48" src="assets/svg/git.svg" alt="Git logo"/><br/>
+          <span>Git</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/jira.svg" alt="Jira logo"/><br/>
+          <span>Jira</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/bitbucket.svg" alt="Bitbucket logo"/><br/>
+          <span>Bitbucket</span>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img height="48" src="assets/svg/azure.svg" alt="Microsoft Azure logo"/><br/>
+          <span>Azure</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/googlecloud.svg" alt="Google Cloud Platform logo"/><br/>
+          <span>Google Cloud</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/docker.svg" alt="Docker logo"/><br/>
+          <span>Docker</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div style="flex: 1; min-width: 250px;">
+    <h2>💻 Dev Environment</h2>
+    <table style="width:100%;">
+      <tr>
+        <td align="center">
+          <img height="48" src="assets/svg/vscode.svg" alt="Visual Studio Code logo"/><br/>
+          <span>VS Code</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/intellij.svg" alt="IntelliJ IDEA logo"/><br/>
+          <span>IntelliJ IDEA</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/androidstudio.svg" alt="Android Studio logo"/><br/>
+          <span>Android Studio</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/windows.svg" alt="Windows logo"/><br/>
+          <span>Windows</span>
+        </td>
+        <td align="center">
+          <img height="48" src="assets/svg/linux.svg" alt="Linux logo"/><br/>
+          <span>Linux</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
-<br/>
+<!-- FIM DAS NOVAS SEÇÕES REAIS -->
 
 ## Profile stats 📊
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="lucas-de-lima :: Top Langs" />
-  <img src="https://github-readme-stats-nu-olive-29.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="lucas-de-lima :: Top Langs" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-nu-olive-29.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="lucas-de-lima :: Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats-nu-olive-29.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="lucas-de-lima :: Top Langs"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -105,8 +174,7 @@
 
 <h4> </h4>
 
-[![Instagram Badge](https://img.shields.io/badge/-@dev.lucasdelima-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/dev.lucasdelima/)](https://www.instagram.com/dev.lucasdelima/)
-[![Linkedin: dev-lucasdelima](https://img.shields.io/badge/-lucasdelima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucasdelima/)](https://www.linkedin.com/in/dev-lucasdelima/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-lucasdelima/)
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas-de-lima?label=follow&style=social)](https://github.com/lucas-de-lima)
 [![Gmail Badge](https://img.shields.io/badge/-dev.lucasdelima@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.lucasdelima@gmail.com)](mailto:dev.lucasdelima@gmail.com)
 <br/>
