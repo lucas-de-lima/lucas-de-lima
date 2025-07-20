@@ -19,7 +19,7 @@ I believe in **clean, practical code** and **continuous learning** through real 
 > - 👨🏽‍💻 <b>Currently pursuing a degree in Systems Analysis and Development</b><br/>
 > - 🤔 <b>Backend developer</b> interested in Go, Kotlin (Android), and Jetpack Compose<br/>
 > - 💼 <b>Goal:</b> Complete my degree and specialize in Software Engineering<br/>
-> - 💬 <b>Always happy to help</b> and open to questions<br/>
+> - 💬 <b>Always learning by doing</b> and open to helping others<br/>
 > - 📫 <b>Open to connections and collaborations</b>
 
 <br/>
