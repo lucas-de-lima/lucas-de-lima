@@ -154,10 +154,10 @@ I believe in **clean, practical code** and **continuous learning** through real 
 
 <table>
   <tr>
-    <td>
+<!--     <td>
       <img src="https://github-readme-stats-nu-olive-29.vercel.app/api?username=lucas-de-lima&theme=radical&title_color=8E2DE2&text_color=fff&layout=compact" alt="lucas-de-lima :: Stats"/>
     </td>
-    <td>
+    <td> -->
       <img src="https://github-readme-stats-nu-olive-29.vercel.app/api/top-langs/?username=lucas-de-lima&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2" alt="lucas-de-lima :: Top Langs"/>
     </td>
   </tr>
